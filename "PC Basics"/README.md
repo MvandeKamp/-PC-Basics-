@@ -1,0 +1,1 @@
+ A PC is a personal computer that runs on an operating system such as Windows, MacOS or Linux. It is a device that allows users to access the internet, run software programs and store files.
